@@ -1,0 +1,6 @@
+ignora urmatoarele extensii:
+
+.class
+.iml
+.txt
+.idea/
